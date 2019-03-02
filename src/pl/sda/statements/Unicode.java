@@ -1,4 +1,4 @@
-package Statements;
+package pl.sda.statements;
 
 
 

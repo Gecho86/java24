@@ -1,4 +1,4 @@
-package oop;
+package pl.sda.oop;
 
 /*
 
@@ -17,20 +17,12 @@ System.out.println("My car is: " + toyota);
 
  */
 
-public class Car {
-    private String brand;
-    private String color;
+public class HelloWorldApp {
+    public static void main(String[] args) {
+        Car toyota = new Car("Toyota", "black");
+        System.out.println("My car is: " + toyota);
 
-    public Car(String brand, String color) {
-        this.brand = brand;
-        this.color = color;
-    }
-
-    @Override
-    public String toString() {
-        return "Car{" +
-                "brand='" + brand + '\'' +
-                ", color='" + color + '\'' +
-                '}';
+        Car mercedes = new Car ("Mercedes", "white");
+        System.out.println("My car is: " + mercedes);
     }
 }

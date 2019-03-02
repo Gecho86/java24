@@ -1,4 +1,4 @@
-package oop;
+package pl.sda.oop;
 /*
 
 Utwórz klasę Triangle i napisz metodę isRectangular(), która jako argumenty przyjmować będzie trzy liczby

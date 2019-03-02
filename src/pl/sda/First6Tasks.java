@@ -1,4 +1,4 @@
-package DataTypes;
+package pl.sda;
 
 public class First6Tasks {
     public static void main(String[] args) {

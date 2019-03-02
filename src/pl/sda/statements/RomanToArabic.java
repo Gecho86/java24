@@ -1,4 +1,4 @@
-package Statements;
+package pl.sda.statements;
 
 public class RomanToArabic {
     public static void main(String[] args) {

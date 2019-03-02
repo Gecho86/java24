@@ -1,4 +1,4 @@
-package statements;
+package pl.sda.statements;
 
 import java.util.Scanner;
 

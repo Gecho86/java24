@@ -1,4 +1,4 @@
-package Statements;
+package pl.sda.statements;
 
 public class Statements {
     public static void main(String[] args) {

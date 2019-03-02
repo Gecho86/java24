@@ -1,4 +1,4 @@
-package datatypes;
+package pl.sda;
 
 /*
 test GIT
